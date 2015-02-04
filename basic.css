@@ -1,0 +1,45 @@
+
+body {
+    margin-left:auto; 
+    margin-right:auto; 
+    max-width:30cm;
+    width:90%;
+}
+
+h2 {
+  background-color: #99ccff;
+  padding: 10px;
+}
+
+span {
+  color:red;
+  font-family: "Verdana";
+}
+
+div.feature {
+  border: 3px solid; 
+  border-color: #1A4C80;
+  margin: 4px;
+  padding: 4px;
+}
+
+div.signup {
+  background-color:pink;
+}
+
+div.image {
+  max-height: 250px;
+  max-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  float:left;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+td.meow {
+  background-color: #94b84d
+}
